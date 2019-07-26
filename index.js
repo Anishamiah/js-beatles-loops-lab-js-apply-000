@@ -20,6 +20,9 @@ function johnLennonFacts(arrFacts){
 function iLoveTheBeatles(num){
   let emptyArray = []
   while(num<15) 
+  do {
+    
+  }
   
   
   
