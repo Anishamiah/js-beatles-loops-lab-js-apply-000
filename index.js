@@ -12,9 +12,9 @@ function johnLennonFacts(arrFacts){
   let factsArr = []
   for ( let i = 0; i< arrFacts.length; i++){
     let str = arrFacts[i] + "!"
-    facts
+    factsArr.push(str)
   }
-  
+  return factsArr
   
   
 }
