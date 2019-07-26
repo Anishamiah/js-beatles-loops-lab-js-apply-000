@@ -16,6 +16,13 @@ function johnLennonFacts(arrFacts){
   }
   return factsArr
   
+}
+function iLoveTheBeatles(num){
+  let emptyArray = []
+  
+  
+  
+  
   
 }
   
