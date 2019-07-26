@@ -19,12 +19,14 @@ function johnLennonFacts(arrFacts){
 }
 function iLoveTheBeatles(num){
   let emptyArray = []
+  let str = "I love the Beatles!"
   do {
-    
+    emptyArray.push(str)
+    num = num + 1
   }
   while(num<15) 
   
-  
+  return emptyArray
   
 }
   
